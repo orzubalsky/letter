@@ -1,0 +1,1 @@
+from letters.models import Signature

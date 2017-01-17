@@ -1,0 +1,47 @@
+body {
+    background: #ffffff;
+    color: #666666;
+    font-family: georgia, serif;
+    font-size: 16px;
+    line-height: 1;
+}
+strong {
+    font-weight: bold;
+}
+.description p,
+.description ol,
+.description ul {
+	font-size: 20px;
+	line-height: 1.7;
+	margin: 0 auto 40px;
+	width: 70%;
+}
+.description ol,
+.description ul {
+    padding: 0;
+}
+.description ul ul {
+    padding: 0 0 0 60px;
+    margin: 0;
+}
+.description a {
+    text-decoration: underline;
+}
+.with-navbar-fixed-top {
+    padding-top: 30px;
+}
+.take_action h2 {
+    margin: 0 0 20px 0;
+}
+.help-block ul {
+    color: white;
+}
+.navbar-brand {
+    padding: 15px 0;
+}
+.navbar a.navbar-brand,
+.nav>li {
+    font-size: 12px;
+}
+.nav>li>a {
+}
